@@ -1,0 +1,14 @@
+[
+  {
+    "name": "billing",
+    "label": "Billing"
+  },
+  {
+    "name": "home",
+    "label": "Home"
+  },
+  {
+    "name": "settings",
+    "label": "Settings"
+  }
+]
